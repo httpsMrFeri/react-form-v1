@@ -42,4 +42,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Screenshots of program pages
 - home page
-![App Screenshot](blob:https://mega.nz/fe511cf8-a430-451a-94ed-a06472cb8e9f)
+![App Screenshot](https://mega.nz/file/aII00YKD#3ZSR9dGUtcOXfBCU_FPBv1bd-7ZN3Ab0FlHfkCDngkI)
