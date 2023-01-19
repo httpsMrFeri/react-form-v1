@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `cd react-form-v1`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -41,3 +42,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Screenshots of program pages
+![image](https://user-images.githubusercontent.com/109946641/213404935-1873e63b-f6cb-492a-b012-411c651437d7.png)
+---
+### share with your friends:heart::fire:
